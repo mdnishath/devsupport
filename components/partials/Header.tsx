@@ -10,9 +10,7 @@ export default function CenteredHeader() {
         <li>
           <ActiveLink href="/">Home</ActiveLink>
         </li>
-        <li>
-          <ActiveLink href="/features">Features</ActiveLink>
-        </li>
+
         <li>
           <ActiveLink href="/pricing">Pricing</ActiveLink>
         </li>
